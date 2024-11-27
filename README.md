@@ -6,3 +6,15 @@
 - Improve Concentration
 - Improve Alertness
 - Takes lesser investment than sudoku
+
+# Todo
+- Restart Button
+- Redo & Undo Button
+- Duration Viewer
+- How to Play instructions
+- Game Sounds
+- Difficulty Levels
+- Winning Dialog
+- Clean Code Rewrite
+- Incorrect Block Signaling
+- Block Transition Animations
