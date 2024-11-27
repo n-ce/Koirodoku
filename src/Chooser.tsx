@@ -54,5 +54,10 @@ function winChecker(): boolean {
   const colorlist = winboard!
     .split('')
     .map(s => colors[parseInt(s) - 1]);
-  return colorlist.every((c, i) => elements[i].classList[0] === c)
+  const won = colorlist.every((c, i) => elements[i].classList[0] === c);
+
+  if (won)
+    document.querySelectorAll('.editable').forEach(e => e.classList.remove('editable'))
+
+  return won;
 }
