@@ -1,7 +1,5 @@
 {
-  "name": "koirodoku",
-  "private": true,
-  "version": "0.0.0",
+  "name": "Koirodoku",
   "type": "module",
   "scripts": {
     "dev": "vite",
