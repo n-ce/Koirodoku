@@ -8,8 +8,7 @@
   },
   "dependencies": {
     "open-props": "^1.7.7",
-    "solid-js": "^1.9.3",
-    "vite-plugin-pwa": "^0.21.0"
+    "solid-js": "^1.9.3"
   },
   "devDependencies": {
     "postcss-jit-props": "^1.0.15",

@@ -1,12 +1,5 @@
 import { render } from 'solid-js/web';
 import './index.css';
-import 'open-props';
-import 'open-props/normalize.min.css';
-import 'open-props/colors.min.css';
-import 'open-props/borders.min.css';
-import 'open-props/sizes.min.css';
-import 'open-props/shadows.min.css';
-import 'open-props/animations.min.css';
 import { createSignal } from 'solid-js';
 import Board from './Board';
 import Chooser from './Chooser';
